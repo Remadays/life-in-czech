@@ -2,19 +2,17 @@
 
 Что можно делать на Чешской почте
 ## Oblibené služby: - любимые услуги
--banky a EMS vyzvednutí
--dopisy vyzvednuti — получение писем
--postovni poukazky - перевод денег почтой
--postovni sporitelna (vklady, vyplaty z йёtu) — вклады и выплаты со счета
+- banky a EMS vyzvednutí
+- dopisy vyzvednuti — получение писем
+- postovni poukazky - перевод денег почтой
+- postovni sporitelna (vklady, vyplaty z йёtu) 
+— вклады и выплаты со счета
 
 ## Vyzvednuti zasilku: - получение посылки
 -balíky a EMS vyzvednutí
 -dopisy vyzvednuti — получение письма
--cenna psani - Ценные письма. Являются услугой,
-через которую вы можете отправить деньги,
-драгоценные металлы и драгоценные камни
--dopisy vydej z P.O. BOXй - это запираемый почтовый
-ящик, расположенный в почтовом отделении.
+-cenna psani - Ценные письма. Являются услугой, через которую вы можете отправить деньги, драгоценные металлы и драгоценные камни
+-dopisy vydej z P.O. BOX - это запираемый почтовый ящик, расположенный в почтовом отделении.
 
 ## odeslat zasilku: - отправить посылку
 -dopisy do 5ks — письма до 5 штук
@@ -29,8 +27,7 @@
 сберегательного банка
 -vyplata duсhоdй — выплата пенсии
 -bankovnia pojistovaci specialist - банковские и почтовые специалисты
--stavebni a penzijni spočeni — пенсионные и
-строительные накопления
+-stavebni a penzijni spočeni — пенсионные и строительные накопления
 -Western Union, Super CASH — переводы компаниями Western Union, Super CASH
 
 ## Ostatni služby: - остальные услуги
