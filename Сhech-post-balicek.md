@@ -1,11 +1,10 @@
-Пришла посылка
-#алгоритм_действий #česká_pošta #pošta #почта #посылка
+## Пришла посылка
 
 Česká pošta
-Вариант 1:
+## Вариант 1:
 Почта 120 присылает Oznámení o příchodu zásilky ze zahraničí k předložení požadovaných dokladů pro celní řízení, документы с фото квитанции отправителя, бланками для доверенности и перечислением правил перевозки. Потом писать или следовать указаниям.
 
-Вариант 2:
+## Вариант 2:
 Отслеживать посылку и написать первой.
 
 1) Если вы ожидаете посылку из 3 стран, то сразу пишете заявление о переводе на электронные уведомления от почты, чтобы ускорить процесс „Žádost o elektronické zasílání oznámení o příchodu zásilek ze zahraničí" https://www.ceskaposta.cz/sluzby/celni-rizeni/ocekavate-zasilku-ze-zahranici
@@ -20,7 +19,7 @@
 5) Čestné prohlášení
 Текст заявления примерно такой:
 
-Čestné prohlášení
+## Čestné prohlášení
 
 Já níže podepsaná, tímto prohlášením a svým podpisem prohlašuji, že uvedená zásilka podací číslo: 1XXXXX, podací číslo zásilky ze země původu: 2XXXXX (skladové číslo 3ХХХХХ), obsahuje oděvy, potraviny, a věci pro potřeby k osobnímu užití a nebude předmětem dalšího obchodování.
 
@@ -32,11 +31,12 @@ Přibližný seznám věcí:
 
 V Praze dne 1.1.2021 Podpis
 
-6) Plná moc  - это доверенность, чтобы почта могла манипулировать посылкой от вашего лица.
+## 6) Plná moc  
+- это доверенность, чтобы почта могла манипулировать посылкой от вашего лица.
 Доверенность вот на этом формуляре https://www.ceskaposta.cz/documents/10180/483930/plna_moc.pdf/e58e4396-d06d-435e-8ac1-df08fe43d525
 
 
-7) Имейл на почту
+## 7) Имейл на почту
 Получатель: sklad.praha120@cpost.cz
 Тема письма: Zásilka z podacím číslem: CVXXXXVV (Zásilka - skladové č. V000000, podací č. CV00000)
 
@@ -66,7 +66,7 @@ Po obdržení patřičných dokumentů a po propuštění celním úřadem do na
 
 После получения соответствующих документов и после помещения под предложенную таможней процедуру мы отправим посылку в почтовое отделение доставки для доставки.
 
-Вариант 3
+## Вариант 3
 Если не понятно, что писать, какие документы, не уверены в чем-то можете или хотите поскорее получить посылку, то можете самостоятельно её забрать прямо на таможне.
 Адрес: K Hrušovu 293/2, Štěrboholy, Praha  https://www.postaonline.cz/detail-pobocky/-/pobocky/detail/22000
 Прихватите с собой документы из списка выше и паспорт. 
