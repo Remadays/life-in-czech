@@ -1,3 +1,9 @@
+Rodné číslo - это национальный идентификационный номер
+
+Законы - 
+Zákon č. 133/2000 Sb., o evidenci obyvatel a rodných číslech a o změně některých zákonů (zákon o evidenci obyvatel), ve znění pozdějších předpisů,
+Vyhláška č. 296/2004 Sb., kterou se provádí zákon o evidenci obyvatel, ve znění pozdějších předpisů.
+
 ## Как получить rodné číslo 
 
 1) Написать  Žádost
@@ -28,4 +34,4 @@ V_________ dne  __________                               ______________ (podpis)
 6) Врямя, которое понадобиться - от 1 до 2 недель от подачи этого заявления. 
 7) rodné číslо необходимо при получении ипотеки или покупке автомобиля, во всех остальных случаях для иностранцев можно использовать дату рождения
 
-                                                                                                                                  
+https://www.mvcr.cz/clanek/rady-a-sluzby-dokumenty-rodne-cislo.aspx                                                                                                                                
