@@ -12,4 +12,7 @@
 - [Datové schránky](/Datovka.md);
 - [Заверенные_копии](/Заверенные_копии.md);
 - [Rodné_číslo](/Rodné_číslo.md);
+- [Nostrifikace](/Nostrifikace.md);
+
+
 
